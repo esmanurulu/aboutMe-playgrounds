@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOltdLCJkaXNwbGF5TmFtZSI6IkFib3V0IE1lIiwi
+		cGFja2FnZUtpbmQiOnsicm9vdCI6e319LCJwbGF0Zm9ybXMiOlt7Im9wdGlv
+		bnMiOltdLCJwbGF0Zm9ybU5hbWUiOiJpb3MiLCJ2ZXJzaW9uIjoiMTUuMiJ9
+		XSwicHJvZHVjdHMiOlt7Im5hbWUiOiJBYm91dCBNZSIsInNldHRpbmdzIjpb
+		eyJkaXNwbGF5VmVyc2lvbiI6WyIxLjAiXX0seyJidW5kbGVWZXJzaW9uIjpb
+		IjEiXX0seyJpT1NBcHBJbmZvIjpbeyJhY2NlbnRDb2xvciI6eyJwcmVzZXRD
+		b2xvciI6eyJwcmVzZXRDb2xvciI6eyJyYXdWYWx1ZSI6InllbGxvdyJ9fX0s
+		ImFwcEljb24iOnsicGxhY2Vob2xkZXIiOnsiaWNvbiI6eyJyYXdWYWx1ZSI6
+		InN0YXIifX19LCJjYXBhYmlsaXRpZXMiOltdLCJzdXBwb3J0ZWREZXZpY2VG
+		YW1pbGllcyI6WyJwYWQiLCJwaG9uZSJdLCJzdXBwb3J0ZWRJbnRlcmZhY2VP
+		cmllbnRhdGlvbnMiOlt7InBvcnRyYWl0Ijp7fX0seyJsYW5kc2NhcGVSaWdo
+		dCI6e319LHsibGFuZHNjYXBlTGVmdCI6e319LHsicG9ydHJhaXRVcHNpZGVE
+		b3duIjp7ImNvbmRpdGlvbiI6eyJkZXZpY2VGYW1pbGllcyI6WyJwYWQiXX19
+		fV19XX1dLCJ0YXJnZXRzIjpbIkFwcCJdLCJ0eXBlIjp7ImV4ZWN1dGFibGUi
+		Om51bGx9fV0sInRhcmdldE1hcCI6eyJBcHAiOnsiZGVwZW5kZW5jaWVzIjpb
+		XSwiZXhjbHVkZSI6W10sIm5hbWUiOiJBcHAiLCJwYXRoIjoiQXBwIiwicmVz
+		b3VyY2VzIjpbXSwic2V0dGluZ3MiOltdLCJ0eXBlIjoiZXhlY3V0YWJsZSJ9
+		fSwidGFyZ2V0cyI6W3siZGVwZW5kZW5jaWVzIjpbXSwiZXhjbHVkZSI6W10s
+		Im5hbWUiOiJBcHAiLCJwYXRoIjoiQXBwIiwicmVzb3VyY2VzIjpbXSwic2V0
+		dGluZ3MiOltdLCJ0eXBlIjoiZXhlY3V0YWJsZSJ9XSwidG9vbHNWZXJzaW9u
+		Ijp7Il92ZXJzaW9uIjoiNS42LjAifX0=
+		</data>
+		<key>manifestHash</key>
+		<data>
+		mS5OzuGI8XhA2AANIU9+k/hP4fsVTX2skzHGCp7bztU=
+		</data>
+		<key>schemaVersion</key>
+		<integer>4</integer>
+		<key>swiftPMVersionString</key>
+		<string>5.8.0</string>
+	</dict>
+</dict>
+</plist>

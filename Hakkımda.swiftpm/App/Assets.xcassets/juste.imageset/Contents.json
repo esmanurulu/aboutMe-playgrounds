@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "juste.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
